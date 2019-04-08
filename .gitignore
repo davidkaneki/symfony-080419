@@ -1,4 +1,4 @@
-
+/.idea/
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
@@ -21,4 +21,3 @@
 /.phpcs-cache
 /phpcs.xml
 ###< squizlabs/php_codesniffer ###
-.idea/
