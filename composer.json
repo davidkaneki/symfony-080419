@@ -11,6 +11,7 @@
         "symfony/apache-pack": "^1.0",
         "symfony/asset": "4.2.*",
         "symfony/console": "4.2.*",
+        "symfony/debug-pack": "^1.0",
         "symfony/dotenv": "4.2.*",
         "symfony/expression-language": "4.2.*",
         "symfony/flex": "^1.1",
@@ -26,10 +27,11 @@
         "symfony/twig-bundle": "4.2.*",
         "symfony/validator": "4.2.*",
         "symfony/web-link": "4.2.*",
-        "symfony/yaml": "4.2.*"
+        "symfony/yaml": "4.2.*",
+        "twbs/bootstrap": "^4.3",
+        "twig/twig": "^2.7"
     },
     "require-dev": {
-        "symfony/debug-pack": "*",
         "symfony/maker-bundle": "^1.0",
         "symfony/profiler-pack": "*",
         "symfony/test-pack": "*",
